@@ -1,0 +1,22 @@
+//
+//
+// RTFM-LINK //
+//
+//
+// Abbreviation - read
+https://en.wikipedia.org/wiki/Abbreviation
+
+// Abbreviation - watch
+https://www.youtube.com/watch?v=5Ai2wBynBtA
+
+// TODO: find Abbreviation for programming.
+
+
+// Anuglar 8 - read
+https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
+
+// Anuglar 8 - watch
+https://www.youtube.com/watch?v=_TLhUCjY9iA&t=478s
+
+
+

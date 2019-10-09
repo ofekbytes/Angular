@@ -1,0 +1,47 @@
+
+:: my-link ::
+https://coursetro.com/posts/code/174/Angular-8-Tutorial-&-Crash-Course
+
+
+:: Font ::
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');
+
+
+:: anuglar-event ::
+:: User Input:: event binding :: 
+https://angular.io/guide/user-input
+
+(click)
+<p> clicked <span (click)="countClick">this </span> {{ clickCounter }} times. </p>
+
+
+:: link ::
+https://www.javatpoint.com/event-binding-in-angular-8
+
+:: wtf ::
+https://angular.io/api/router/Event
+https://angular.io/cli
+https://blog.angular.io/
+
+
+////////////////////////////////////////////
+.
+.
+.
+.
+.
+---[ksp tablet product id]---
+.
+----[Samsung Galaxy Tab A 2019 32GB SM-T510]---
+<68280>
+.
+.
+---[Lenovo TAB 4 TB-X304F ZA2J0037IL]---
+<45831>
+.
+.
+. TODO: delete/erase this section when done
+.
+////////////////////////////////////////////
+
+
